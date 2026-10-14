@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "messages": [
+    {
+      "id": "unsupported_chars_signal",
+      "order": 1,
+      "event": "Bad Character",
+      "message": "HELLO # WORLD",
+      "normalized_answer": "HELLO # WORLD",
+      "date": "1912-04-14",
+      "time": {
+        "value": "22:00",
+        "reference": "ship_time"
+      },
+      "sender": "Synthetic",
+      "recipient": "Synthetic",
+      "transcription_type": "direct",
+      "context": "Synthetic fixture.",
+      "evidence_notes": "Contains # which is not in ITU Morse table.",
+      "sources": [],
+      "verification_status": "verified",
+      "verified_by": "Test Runner",
+      "verified_on": "2026-10-14"
+    }
+  ]
+}

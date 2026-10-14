@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "messages": [
+    {
+      "id": "synthetic_test_signal",
+      "order": 1,
+      "event": "Synthetic Test Signal",
+      "message": "TEST CQD",
+      "normalized_answer": "TEST CQD",
+      "date": "1912-04-14",
+      "time": {
+        "value": "22:00",
+        "reference": "ship_time"
+      },
+      "sender": "Synthetic Ship",
+      "recipient": "Synthetic Station",
+      "transcription_type": "direct",
+      "context": "Synthetic test fixture for automated test runner.",
+      "evidence_notes": "Synthetic record labeled as test fixture.",
+      "sources": [],
+      "verification_status": "verified",
+      "verified_by": "Test Runner",
+      "verified_on": "2026-10-14"
+    }
+  ]
+}

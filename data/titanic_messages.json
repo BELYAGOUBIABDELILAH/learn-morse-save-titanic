@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "messages": [
+    {
+      "id": "carpathia_reply_coming_hard",
+      "order": 1,
+      "event": "Carpathia's Response",
+      "message": "COMING HARD",
+      "normalized_answer": "COMING HARD",
+      "date": "1912-04-15",
+      "time": {
+        "value": "00:30",
+        "reference": "new_york_time"
+      },
+      "sender": "Carpathia (MPA)",
+      "recipient": "Titanic (MGY)",
+      "transcription_type": "direct",
+      "context": "Wireless operator Harold Cottam on RMS Carpathia received Titanic's distress call and immediately confirmed their rescue sprint at maximum boiler pressure.",
+      "evidence_notes": "Harold Cottam confirmed that after receiving Titanic's distress message, he transmitted 'Coming hard' to indicate maximum speed.",
+      "sources": [],
+      "verification_status": "pending",
+      "verified_by": null,
+      "verified_on": null
+    },
+    {
+      "id": "first_distress_call_cqd",
+      "order": 2,
+      "event": "Distress Call",
+      "message": "CQD CQD SOS DE MGY",
+      "normalized_answer": "CQD CQD <SOS> DE MGY",
+      "date": "1912-04-15",
+      "time": {
+        "value": "00:25",
+        "reference": "new_york_time"
+      },
+      "sender": "Titanic (MGY)",
+      "recipient": "All Stations",
+      "transcription_type": "reconstructed",
+      "context": "Titanic began transmitting the Marconi distress call CQD following the collision, subsequently adding the new international signal SOS.",
+      "evidence_notes": "Wireless records document Titanic calling CQD and SOS following the order of Captain Smith.",
+      "sources": [],
+      "verification_status": "pending",
+      "verified_by": null,
+      "verified_on": null
+    },
+    {
+      "id": "californian_ice_report",
+      "order": 3,
+      "event": "Californian Ice Warning",
+      "message": "WE ARE STOPPED AND SURROUNDED BY ICE",
+      "normalized_answer": "WE ARE STOPPED AND SURROUNDED BY ICE",
+      "date": "1912-04-14",
+      "time": {
+        "value": "23:05",
+        "reference": "ship_time"
+      },
+      "sender": "Californian (MWL)",
+      "recipient": "Titanic (MGY)",
+      "transcription_type": "direct",
+      "context": "SS Californian warned Titanic that their ship had come to a complete stop due to field ice directly ahead.",
+      "evidence_notes": "Operator Cyril Evans sent this warning directly to Titanic before being told to stand by as Titanic cleared commercial traffic.",
+      "sources": [],
+      "verification_status": "pending",
+      "verified_by": null,
+      "verified_on": null
+    }
+  ]
+}

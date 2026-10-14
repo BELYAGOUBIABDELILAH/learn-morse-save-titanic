@@ -1,0 +1,45 @@
+{
+  "track": "staged",
+  "stages": [
+    {
+      "stage": 1,
+      "title": "First Signals",
+      "characters": ["E", "T"]
+    },
+    {
+      "stage": 2,
+      "title": "Opposites",
+      "characters": ["A", "N"]
+    },
+    {
+      "stage": 3,
+      "title": "Pairs",
+      "characters": ["I", "M"]
+    },
+    {
+      "stage": 4,
+      "title": "Rhythm Builders",
+      "characters": ["S", "O", "R", "K"]
+    },
+    {
+      "stage": 5,
+      "title": "Expanding Reach",
+      "characters": ["D", "U", "W", "G"]
+    },
+    {
+      "stage": 6,
+      "title": "The Alphabet Complete",
+      "characters": ["B", "C", "F", "H", "J", "L", "P", "Q", "V", "X", "Y", "Z"]
+    },
+    {
+      "stage": 7,
+      "title": "Numerals",
+      "characters": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
+    },
+    {
+      "stage": 8,
+      "title": "Punctuation & Distress",
+      "characters": [".", ",", "?", "/", "<SOS>"]
+    }
+  ]
+}
